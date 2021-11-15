@@ -8,3 +8,5 @@ PlatformService/obj/project.assets.json
 /PlatformService/.vs/PlatformService/DesignTimeBuild
 /PlatformService/bin/Debug/net5.0
 /PlatformService/obj/Debug/net6.0
+/CommandsService/obj
+/CommandsService/bin/Debug/net5.0
